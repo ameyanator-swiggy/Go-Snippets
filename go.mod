@@ -1,3 +1,3 @@
-module github.com/ameyanator/Go-Snippets
+module github.com/ameyanator/Awesome-Go-Snippets
 
 go 1.19
